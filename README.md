@@ -1,2 +1,1 @@
-# django_fileupload
-File upload Django
+# Django Fileupload App
